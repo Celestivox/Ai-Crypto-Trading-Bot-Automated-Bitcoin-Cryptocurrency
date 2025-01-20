@@ -1,0 +1,2 @@
+D:\GithubNew\4\AiCryptoTrad\TradingBot\Zenit-Crypto-Trading\Form11\obj\Debug\Form1.csproj.AssemblyReference.cache
+D:\GithubNew\4\AiCryptoTrad\TradingBot\Zenit-Crypto-Trading\Form11\obj\Debug\Form1.csproj.CoreCompileInputs.cache
